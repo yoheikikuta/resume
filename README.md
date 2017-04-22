@@ -25,11 +25,27 @@
 - English (business)
 
 ## Experience
-**Cookpad** (201612 - present)
-- Research and Development (201612 - present)
+**Cookpad Inc.** (201612 - present)
+- Research and Development
+  - Created new service using machine learning <br>
+  Image recognition using deep learning: classification, object detection, etc
+- Sponsoring conferences
+  - Exhibited the company's booth, chaired a session of IPSJ, was one of committee members of CEA
+- Hiring
 
 **Deloitte** (201404 - 201611)
-- Research and Development (201406 - 201611)
+- Research and Development
+  - Investigated business application by means of cutting edge technologies and wrote papers <br>
+  image recognition using deep learning, recommendation 
+- Data analysis service to a client (onsite project at a client's office)
+  - Built machine learning module for a recommender system <br>
+  learning to rank, Xgboost, Factorization Machines, Spark, Hive, AWS
+  - Analyzed various topics: ROI optimization, time series analysis for the budget planning, etc <br>
+  ARIMA, price elasticity analysis, linear programming, genetic algorithm
+- Characteristic analysis of tourist spots and brand reputation analysis of a company
+  - Analyzed for reporting to clients <br>
+  text data processing, topic model (PLSA), bayesian network
+- Joint research about business applications using deep learning
 
 ## Publications
 #### Papers
