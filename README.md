@@ -69,8 +69,11 @@
   - 日経BP, in Japanse, 20150829
   - Contribution to the article of p.86-87.
 
-#### Talks
+#### Presentations
+- [Full list](./presentations.md)
 - [Speaker Deck](https://speakerdeck.com/diracdiego)
+- Many presentations in private study groups
+  - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, はじめてのパターン認識, etc
 
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
