@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20170525 | PAKDD2017 ([link](http://pakdd2017.snu.ac.kr/index.php)) | Web-Scale Personalized Real-Time Recommender System on Suumo (N/A)  |
 | 20170405 | Tokyo Machine Learning Kitchen #2 ([link](https://www.meetup.com/tokyo-machine-learning-kitchen/events/238314092/)) | How and Why does deep learning work well? ([link](https://speakerdeck.com/diracdiego/20170405-mlkitchen2))  |
 | 20170216 | Cookpad Tech Kitchen ([link](https://cookpad.connpass.com/event/49324/)) | Food image object detection and classification: Challenges and solutions (part2 - classification) ([link](https://speakerdeck.com/diracdiego/20170216-techkitchen-foodimage-classification))  |
 | 20161024 | Pythonで動かして学ぶ機械学習入門第三回 ([link](https://shiroyagi.connpass.com/event/41884/)) | ディープラーニング理論 ([link](https://speakerdeck.com/diracdiego/pythondedong-kasitexue-buji-jie-xue-xi-ru-men-di-san-hui-deipuraninguli-lun))  |
