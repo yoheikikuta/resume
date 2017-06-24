@@ -37,21 +37,25 @@
 **Deloitte** (201404 - 201611)
 - Research and Development
   - Investigated business application by means of cutting edge technologies and wrote papers <br>
-  image recognition using deep learning, recommendation 
+  Image recognition using deep learning, recommendation 
 - Data analysis service to a client (onsite project at a client's office)
   - Built machine learning module for a recommender system <br>
-  learning to rank, Xgboost, Factorization Machines, Spark, Hive, AWS
+  Learning to rank, Xgboost, Factorization Machines, Spark, Hive, AWS
   - Analyzed various topics: ROI optimization, time series analysis for the budget planning, etc <br>
   ARIMA, price elasticity analysis, linear programming, genetic algorithm
 - Characteristic analysis of tourist spots and brand reputation analysis of a company
   - Analyzed for reporting to clients <br>
-  text data processing, topic model (PLSA), bayesian network
+  Text data processing, topic model (PLSA), bayesian network
 - Joint research about business applications using deep learning
 
 ## Publications
 #### Papers
+- Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
+  - IJCAI2017 WS39, short paper, 20170820
+- Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research ([link](http://sigir.org/sigir2017/program/program-at-a-glance/))
+  - SIGIR2017, resource paper, 20170807
 - Web-Scale Personalized Real-Time Recommender System on Suumo ([link](http://pakdd2017.snu.ac.kr/?program_overview))
-  - PAKDD2017 long paper, 20170525
+  - PAKDD2017, long paper, 20170525
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://kaigi.org/jsai/webprogram/2017/paper-740.html))
   - JSAI2017, in Japanese, 20170523
 - Proposing automated region extraction techniques from image data ([link](https://kaigi.org/jsai/webprogram/2016/paper-976.html))
