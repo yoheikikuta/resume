@@ -1,7 +1,7 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
 | 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (To Be Appered)  |
-| 20170809 | 第41回 コンピュータビジョン勉強会＠関東 CVPR読み会 ([link](https://kantocv.connpass.com/event/62020/)) | Universal adversarial perturbations (To Be Appeared)  |
+| 20170809 | 第41回 コンピュータビジョン勉強会＠関東 CVPR読み会 ([link](https://kantocv.connpass.com/event/62020/)) | Universal adversarial perturbations ([link](https://speakerdeck.com/diracdiego/universal-adversarial-perturbations))  |
 | 20170712 | NN論文を肴に酒を飲む会 #3 ([link](https://tfug-tokyo.connpass.com/event/60292/)) | Some understanding of generalization in deep learning ([link](https://speakerdeck.com/diracdiego/some-understanding-of-generalization-in-deep-learing))  |
 | 20170629 | Talk about all things Machine Learning ([link](https://www.meetup.com/tokyo-machine-learning-kitchen/events/240684094/)) | The evolution of CNN ([link](https://speakerdeck.com/diracdiego/the-evolution-of-cnn))  |
 | 20170525 | PAKDD2017 ([link](http://pakdd2017.snu.ac.kr/index.php)) | Web-Scale Personalized Real-Time Recommender System on Suumo (N/A)  |
