@@ -1,6 +1,7 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
-| 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (To Be Appered)  |
+| 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (N/A)  |
+| 20170815 | cookpad 17day summer internship ([link](https://internship.cookpad.com/2017/summer/17day-tech/)) | 機械学習 ([link](https://speakerdeck.com/diracdiego/cookpad-summer-internship-2017-ml))  |
 | 20170809 | 第41回 コンピュータビジョン勉強会＠関東 CVPR読み会 ([link](https://kantocv.connpass.com/event/62020/)) | Universal adversarial perturbations ([link](https://speakerdeck.com/diracdiego/universal-adversarial-perturbations))  |
 | 20170712 | NN論文を肴に酒を飲む会 #3 ([link](https://tfug-tokyo.connpass.com/event/60292/)) | Some understanding of generalization in deep learning ([link](https://speakerdeck.com/diracdiego/some-understanding-of-generalization-in-deep-learing))  |
 | 20170629 | Talk about all things Machine Learning ([link](https://www.meetup.com/tokyo-machine-learning-kitchen/events/240684094/)) | The evolution of CNN ([link](https://speakerdeck.com/diracdiego/the-evolution-of-cnn))  |
