@@ -1,5 +1,7 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20171216 | 第43回 コンピュータビジョン勉強会＠関東 ICCV2017読み会 ([link](https://kantocv.connpass.com/event/66397/)) | To Be Appeared |
+| 20171029 | 第42回 コンピュータビジョン勉強会＠関東 コンピュータビジョンのお仕事2 ([link](https://kantocv.connpass.com/event/67984/)) | To Be Appeared  |
 | 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (N/A)  |
 | 20170815 | cookpad 17day summer internship ([link](https://internship.cookpad.com/2017/summer/17day-tech/)) | 機械学習 ([link](https://speakerdeck.com/diracdiego/cookpad-summer-internship-2017-ml))  |
 | 20170809 | 第41回 コンピュータビジョン勉強会＠関東 CVPR読み会 ([link](https://kantocv.connpass.com/event/62020/)) | Universal adversarial perturbations ([link](https://speakerdeck.com/diracdiego/universal-adversarial-perturbations))  |
