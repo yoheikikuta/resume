@@ -1,6 +1,7 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
 | 20171216 | 第43回 コンピュータビジョン勉強会＠関東 ICCV2017読み会 ([link](https://kantocv.connpass.com/event/66397/)) | To Be Appeared |
+| 20171115 | Cookpad Tech Kitchen #13 ([link](https://cookpad.connpass.com/event/70076/)) | 画像分析によるレシピのカテゴリ分類 (To Be Appeared)  |
 | 20171029 | 第42回 コンピュータビジョン勉強会＠関東 コンピュータビジョンのお仕事2 ([link](https://kantocv.connpass.com/event/67984/)) | To Be Appeared  |
 | 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (N/A)  |
 | 20170815 | cookpad 17day summer internship ([link](https://internship.cookpad.com/2017/summer/17day-tech/)) | 機械学習 ([link](https://speakerdeck.com/diracdiego/cookpad-summer-internship-2017-ml))  |
@@ -9,7 +10,7 @@
 | 20170629 | Talk about all things Machine Learning ([link](https://www.meetup.com/tokyo-machine-learning-kitchen/events/240684094/)) | The evolution of CNN ([link](https://speakerdeck.com/diracdiego/the-evolution-of-cnn))  |
 | 20170525 | PAKDD2017 ([link](http://pakdd2017.snu.ac.kr/index.php)) | Web-Scale Personalized Real-Time Recommender System on Suumo (N/A)  |
 | 20170405 | Tokyo Machine Learning Kitchen #2 ([link](https://www.meetup.com/tokyo-machine-learning-kitchen/events/238314092/)) | How and Why does deep learning work well? ([link](https://speakerdeck.com/diracdiego/20170405-mlkitchen2))  |
-| 20170216 | Cookpad Tech Kitchen ([link](https://cookpad.connpass.com/event/49324/)) | Food image object detection and classification: Challenges and solutions (part2 - classification) ([link](https://speakerdeck.com/diracdiego/20170216-techkitchen-foodimage-classification))  |
+| 20170216 | Cookpad Tech Kitchen #5 ([link](https://cookpad.connpass.com/event/49324/)) | Food image object detection and classification: Challenges and solutions (part2 - classification) ([link](https://speakerdeck.com/diracdiego/20170216-techkitchen-foodimage-classification))  |
 | 20161024 | Pythonで動かして学ぶ機械学習入門第三回 ([link](https://shiroyagi.connpass.com/event/41884/)) | ディープラーニング理論 ([link](https://speakerdeck.com/diracdiego/pythondedong-kasitexue-buji-jie-xue-xi-ru-men-di-san-hui-deipuraninguli-lun))  |
 | 20161001 | KDD2016 勉強会([link](https://atnd.org/events/80771)) | Xgboost A Scalable Tree Boosting System ([link](https://speakerdeck.com/diracdiego/kdd2016mian-qiang-hui-ju-tian-xgboost))  |
 | 20160925 | Pythonで動かして学ぶ機械学習入門第二回 ([link](https://shiroyagi.connpass.com/event/40028/)) | 評判分析 ([link](https://speakerdeck.com/diracdiego/pythondedong-kasitexue-buji-jie-xue-xi-ru-men-di-er-hui-ping-pan-fen-xi))  |
