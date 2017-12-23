@@ -66,7 +66,9 @@
   - JSAI2015, in Japanese, 20150531
 - Physics papers during my PhD research ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
 
-#### Books
+#### Books, Newspapers
+- クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
+  - 日刊工業新聞, in Japanese, 20171223  
 - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
   - 秀和システム, in Japanse, 20170321
   - Contribution to chapters 1,6 and 8.
