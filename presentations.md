@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20180127 | NIPS2017論文読み会 ([link](https://cookpad.connpass.com/event/74937/)) | To Be Appeared |
 | 20171115 | Cookpad Tech Kitchen #13 ([link](https://cookpad.connpass.com/event/70076/)) | 画像分析によるレシピのカテゴリ分類 ([link](https://speakerdeck.com/diracdiego/20171115-cookpad-techkitchen-number-13))  |
 | 20171029 | 第42回 コンピュータビジョン勉強会＠関東 コンピュータビジョンのお仕事2 ([link](https://kantocv.connpass.com/event/67984/)) | がぞうのおしごと ([link](https://speakerdeck.com/diracdiego/20171029-kantocv-kikuta)) |
 | 20170820 | IJCAI WS39, CEA2017 ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/)) | Approaches to Food/Non-food Image Classification Using Deop Learning in Cookpad (N/A)  |
