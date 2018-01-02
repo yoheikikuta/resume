@@ -2,7 +2,6 @@
   <b>Yohei KIKUTA, PhD</b><br>
   Tokyo, Japan <br>
   diracdiego[at]gmail.com <br>
-  <A Href="https://www.linkedin.com/in/yohei-kikuta-983b29117/">LinkedIn</A> <br>
   <br>
 </p>
 
@@ -94,5 +93,6 @@
   - Bachelor's degree of Physics
 
 ## Ohters
+- [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
+- [Twitter](https://twitter.com/yohei_kikuta)
 - [Homepage](https://yoheikikuta.github.io/)
-- [Twitter](https://twitter.com/yohei_kikuta), [Facebook](https://www.facebook.com/yohei.kikuta.3)
