@@ -82,7 +82,7 @@
 - [Full list](./presentations.md)
 - [Speaker Deck](https://speakerdeck.com/diracdiego)
 - Many presentations in private study groups
-  - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, はじめてのパターン認識, etc
+  - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, はじめてのパターン認識, 詳解ディープラーニング, etc
 
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
