@@ -15,14 +15,15 @@
 
 ## Skills
 #### Machine Learning
- - Theoretical understandings of machine learning
- - Image analysis, recommender system, text analysis
- - Python, R
-#### IT
- - Basic knowledge of Linux, Git and Docker
+ - Deep theoretical understanding of machine learning
+ - Image recognition, recommender system, text analysis, marketing ROI optimization, time series analysis
+ - TensorFlow, Keras, scikit-learn, gensim, and so many more
+#### DevOps
+ - Basic knowledge of Linux (Ubuntu), Git (GitHub) and Docker (Docker Hub)
+ - AWS, GCP
 #### Language
-- Japanese (native)
-- English (business)
+- Japanese (native), English (business)
+- Python, R
 
 ## Experience
 **Cookpad Inc.** (201612 - present)
