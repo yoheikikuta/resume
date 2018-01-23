@@ -29,10 +29,15 @@
 **Cookpad Inc.** (201612 - present)
 - Research and Development
   - Created new service using machine learning <br>
-  Image recognition using deep learning: classification, object detection, etc
-- Sponsoring conferences
-  - Exhibited the company's booth, chaired a session of IPSJ, was one of committee members of CEA
-- Hiring
+  Image recognition using deep learning: classification, object detection, attactiveness estimation, etc
+  - Attended machine learning conference<br>
+  PAKDD, IJCAI, NIPS (as a top conference reportoer of JSAI in 2017), ...
+- Sponsoring conference and organizing event
+  - Led company's exhibition, chaired a session of IPSJ, is one of committee members of CEA
+  - Organized various events, see [connpass page](https://connpass.com/user/YoheiKikuta/open/) 
+- Hiring and team building
+  - Conducted interview with candidate for machine learning position in domestic and global
+  - Contributed team building and communiation strategy
 
 **Deloitte** (201404 - 201611)
 - Research and Development
