@@ -7,10 +7,10 @@
 
 ## Summary
 - Expert at machine learning, 3+ years experience in both research and practical application
-- Solved data analysis problems for business purpose: Recommendation, Text analysis, Marketing ROI optimization 
+- Solved data analysis problems for business purpose: image recognition, recommendation, text analysis, and so forth
 - Published achademic papers about deep learning and recommendation
-- Wrote an article for NikkeiBP and published a book for beginners of machine learning
-- Gave many external presentations about machine learning
+- Made many external presentations about machine learning
+- Contributed article to NikkeiBP and wrote book for beginners of machine learning
 - Core competencies: Machine learning theory, image analysis, recommendation, Python, R
 
 ## Skills
