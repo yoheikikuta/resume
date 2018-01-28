@@ -1,7 +1,7 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
-| 20180228 | 第74回人工知能セミナー　@早稲田大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
-| 20180221 | 第74回人工知能セミナー　@大阪大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
+| 20180228 | 第74回人工知能セミナー @早稲田大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
+| 20180221 | 第74回人工知能セミナー @大阪大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
 | 20180210 | Cookpad TechConf2018 ([link](https://techconf.cookpad.com/2018/)) | To Be Appeared |
 | 20180127 | NIPS2017論文読み会 ([link](https://cookpad.connpass.com/event/74937/)) | GANの収束性に関する論文 ([link](https://speakerdeck.com/diracdiego/20180127-nips-paper-reading)) |
 | 20171115 | Cookpad Tech Kitchen #13 ([link](https://cookpad.connpass.com/event/70076/)) | 画像分析によるレシピのカテゴリ分類 ([link](https://speakerdeck.com/diracdiego/20171115-cookpad-techkitchen-number-13))  |
