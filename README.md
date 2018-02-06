@@ -55,6 +55,7 @@
 
 ## Publications
 #### Papers
+- ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
   - IJCAI2017 WS39, short paper, 20170820
 - Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research ([link](http://sigir.org/sigir2017/program/program-at-a-glance/))
