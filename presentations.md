@@ -1,9 +1,9 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
-| 20180228 | 第74回人工知能セミナー @早稲田大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
-| 20180221 | 第74回人工知能セミナー @大阪大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | To Be Appeared |
-| 20180215 | ML Kitchen ([link](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/events/247076882/)) | NIPS 2017 report([link](https://speakerdeck.com/diracdiego/20180215-mlkitchen7-yoheikikuta)) |
-| 20180210 | Cookpad TechConf2018 ([link](https://techconf.cookpad.com/2018/)) | Solve "unsolved" image recognition problems in service applications([link](https://speakerdeck.com/diracdiego/20180210-cookpad-techconf2018-yoheikikuta)) |
+| 20180228 | 第74回人工知能セミナー @早稲田大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | 深層学習の深化と展開 (Only available for attendees) |
+| 20180221 | 第74回人工知能セミナー @大阪大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | 深層学習の深化と展開 (Only available for attendees) |
+| 20180215 | ML Kitchen ([link](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/events/247076882/)) | NIPS 2017 report ([link](https://speakerdeck.com/diracdiego/20180215-mlkitchen7-yoheikikuta)) |
+| 20180210 | Cookpad TechConf2018 ([link](https://techconf.cookpad.com/2018/)) | Solve "unsolved" image recognition problems in service applications ([link](https://speakerdeck.com/diracdiego/20180210-cookpad-techconf2018-yoheikikuta)) |
 | 20180127 | NIPS2017論文読み会 ([link](https://cookpad.connpass.com/event/74937/)) | GANの収束性に関する論文 ([link](https://speakerdeck.com/diracdiego/20180127-nips-paper-reading)) |
 | 20171115 | Cookpad Tech Kitchen #13 ([link](https://cookpad.connpass.com/event/70076/)) | 画像分析によるレシピのカテゴリ分類 ([link](https://speakerdeck.com/diracdiego/20171115-cookpad-techkitchen-number-13))  |
 | 20171029 | 第42回 コンピュータビジョン勉強会＠関東 コンピュータビジョンのお仕事2 ([link](https://kantocv.connpass.com/event/67984/)) | がぞうのおしごと ([link](https://speakerdeck.com/diracdiego/20171029-kantocv-kikuta)) |
