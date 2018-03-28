@@ -75,7 +75,8 @@
 #### Books, Newspapers, Blogs
 - COOKPAD Engineer's Blog (in Japanese)
   - 20170809 2nd Hackarade: Machine Learning Challenge ([link](http://techlife.cookpad.com/entry/2017/08/09/135005))  
-  - 20170914 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756))  
+  - 20170914 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756)) 
+  - 20180328 人工知能学会のトップカンファレンス派遣レポータとして NIPS2017 に参加しました ([link](http://techlife.cookpad.com/entry/2018/03/28/083000)) 
 - クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
   - 日刊工業新聞, in Japanese, 20171223  
 - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
