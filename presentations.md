@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20180414 | WSDM 2018 論文読み会 ([link](https://atnd.org/events/95510)) | Why People Search for Images using Web Search Engines ([ref](https://speakerdeck.com/diracdiego/20180414-wsdm2018-reading-yoheikikuta)) |
 | 20180228 | 第74回人工知能セミナー @早稲田大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | 深層学習の深化と展開 ([ref](https://speakerdeck.com/diracdiego/20180306-nips2017-deeplearning)) |
 | 20180221 | 第74回人工知能セミナー @大阪大学 ([link](http://www.ai-gakkai.or.jp/no74_jsai_seminar/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)) | 深層学習の深化と展開 ([ref](https://speakerdeck.com/diracdiego/20180306-nips2017-deeplearning)) |
 | 20180215 | ML Kitchen ([link](https://www.meetup.com/ja-JP/tokyo-machine-learning-kitchen/events/247076882/)) | NIPS 2017 report ([link](https://speakerdeck.com/diracdiego/20180215-mlkitchen7-yoheikikuta)) |
