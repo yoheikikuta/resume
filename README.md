@@ -55,6 +55,8 @@
 
 ## Publications
 #### Papers
+- Improving SRGAN for Super-Resolving Low Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/tables?cryptoId=))
+  - JSAI2018, in Japanese, 20180607
 - ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
   - IJCAI2017 WS39, short paper, 20170820
