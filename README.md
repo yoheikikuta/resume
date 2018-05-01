@@ -74,19 +74,24 @@
   - JSAI2015, in Japanese, 20150531
 - Physics papers during my PhD research ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
 
-#### Books, Newspapers, Blogs
-- COOKPAD Engineer's Blog (in Japanese)
-  - 20170809 2nd Hackarade: Machine Learning Challenge ([link](http://techlife.cookpad.com/entry/2017/08/09/135005))  
-  - 20170914 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756)) 
-  - 20180328 人工知能学会のトップカンファレンス派遣レポータとして NIPS2017 に参加しました ([link](http://techlife.cookpad.com/entry/2018/03/28/083000)) 
-- クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
-  - 日刊工業新聞, in Japanese, 20171223  
-- フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
-  - 秀和システム, in Japanse, 20170321
-  - Contribution to chapters 1,6 and 8.
-- この1冊でまるごとわかる！　人工知能ビジネス ([link](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00245200B))
-  - 日経BP, in Japanse, 20150829
-  - Contribution to the article of p.86-87.
+#### Books & Articles, Blogs, Interviews
+- Books & Articles
+  - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
+    - 20170321, 秀和システム, in Japanse
+    - Contribution to chapters 1,6 and 8.
+  - 人工知能学会誌寄稿
+    - 20180501, 会議報告「The Thirty-first Annual Conference on Neural Information Processing Systems（NIPS 2017）」 ([link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9220&item_no=1&page_id=13&block_id=23)), in Japanese
+  - この1冊でまるごとわかる！　人工知能ビジネス ([link](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00245200B))
+    - 20150829, 日経BP, in Japanse
+    - Contribution to the article of p.86-87.
+- Blogs
+  - COOKPAD Engineer's Blog (in Japanese)
+    - 20170809, 2nd Hackarade: Machine Learning Challenge ([link](http://techlife.cookpad.com/entry/2017/08/09/135005))  
+    - 20170914, 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756)) 
+    - 20180328, 人工知能学会のトップカンファレンス派遣レポータとして NIPS2017 に参加しました ([link](http://techlife.cookpad.com/entry/2018/03/28/083000)) 
+- Interviews
+  - クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
+    - 20171223, 日刊工業新聞, in Japanese  
 
 #### Presentations
 - [Full list](./presentations.md)
