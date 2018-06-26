@@ -81,7 +81,7 @@
     - Contribution to chapters 1,6 and 8.
   - Web articles
     - 20180515, 機械学習を用いた画像分類における「未解決問題」を解くためにやったこと([link](https://logmi.jp/282815)), in Japanese
-    - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html),[link2](https://codezine.jp/article/detail/10893)), in Japanese
+    - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html),[link2](https://codezine.jp/article/detail/10893),[link3](https://geek-out.jp/column/entry/2018/06/26/110000)), in Japanese
   - 人工知能学会誌寄稿
     - 20180501, 会議報告「The Thirty-first Annual Conference on Neural Information Processing Systems（NIPS 2017）」 ([link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9220&item_no=1&page_id=13&block_id=23)), in Japanese
   - この1冊でまるごとわかる！　人工知能ビジネス ([link](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00245200B))
