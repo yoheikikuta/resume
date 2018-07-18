@@ -55,14 +55,16 @@
 
 ## Publications
 #### Papers
+- SRGAN for Super-Resolving Low-Resolution Food Images ([conference link](https://md.sist.chukyo-u.ac.jp/cea2018/program.html))
+  -  IJCAI-ECAI2018 WS CEA2018, poster, 20180715
 - Improving SRGAN for Super-Resolving Low Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/tables?cryptoId=))
   - JSAI2018, in Japanese, 20180607
 - ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
-  - IJCAI2017 WS39, short paper, 20170820
+  - IJCAI2017 WS39 CEA2017, poster, 20170820
 - Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research ([link](http://sigir.org/sigir2017/program/program-at-a-glance/))
   - SIGIR2017, resource paper, 20170807
-- Web-Scale Personalized Real-Time Recommender System on Suumo ([link](http://pakdd2017.snu.ac.kr/?program_overview))
+- Web-Scale Personalized Real-Time Recommender System on Suumo ([conference link](http://pakdd2017.snu.ac.kr/?program_overview))
   - PAKDD2017, long paper, 20170525
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://kaigi.org/jsai/webprogram/2017/paper-740.html))
   - JSAI2017, in Japanese, 20170523
