@@ -6,12 +6,12 @@
 </p>
 
 ## Summary
-- Expert at machine learning, 3+ years experience in both research and practical application
+- Expert at machine learning, 4+ years experience in both research and practical application
 - Solved data analysis problems for business purpose: image recognition, recommendation, text analysis, and so forth
 - Published achademic papers about deep learning and recommendation
 - Made many external presentations about machine learning
-- Contributed article to NikkeiBP and wrote book for beginners of machine learning
-- Core competencies: Machine learning theory, image analysis, recommendation, Python, R
+- Contributed article to NikkeiBP and JSAI, and wrote book for beginners of machine learning
+- Core competencies: Machine learning theory and implementation, image analysis, recommendation, Python, R
 
 ## Skills
 #### Machine Learning
