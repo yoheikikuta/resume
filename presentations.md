@@ -1,6 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
-| 20180820-24 | Cookpad Summer Internship 2018 5DAY R&D ([link](https://internship.cookpad.com/2018/summer/)) | TBA |
+| 20180820-24 | Cookpad Summer Internship 2018 5DAY R&D ([link](https://internship.cookpad.com/2018/summer/)) | Lecture material ([link](https://github.com/yoheikikuta/2018-cookpad-intern-yohei-lecture)) |
 | 20180701 | 第46回 コンピュータビジョン勉強会＠関東（前編） ([link](https://kantocv.connpass.com/event/88613/)) | MobileNetV2: Inverted Residuals and Linear Bottlenecks ([ref](https://speakerdeck.com/diracdiego/20180701-cvpr2018-reading-yoheikikuta)) |
 | 20180530 | GeekOutナイト ([link](https://geek-out.jp/column/entry/2018/04/27/110000)) | 料理画像に対する画像認識の挑戦 (N/A) |
 | 20180414 | WSDM 2018 論文読み会 ([link](https://atnd.org/events/95510)) | Why People Search for Images using Web Search Engines ([ref](https://speakerdeck.com/diracdiego/20180414-wsdm2018-reading-yoheikikuta)) |
