@@ -91,6 +91,7 @@
     - Contribution to the article of p.86-87.
 - Blogs
   - COOKPAD Engineer's Blog (in Japanese)
+    - 20180831, Cookpad Summer Internship 2018 5 DAY R&D を開催しました ([link](https://techlife.cookpad.com/entry/2018/08/31/093000))
     - 20180705, Firebase ML Kitで自作のカスタムモデルを使って料理・非料理画像を判定できるようにした ([link](https://techlife.cookpad.com/entry/2018/07/05/090000)) 
     - 20180328, 人工知能学会のトップカンファレンス派遣レポータとして NIPS2017 に参加しました ([link](http://techlife.cookpad.com/entry/2018/03/28/083000)) 
     - 20170914, 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756)) 
