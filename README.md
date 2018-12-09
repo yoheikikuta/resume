@@ -74,7 +74,7 @@
   - JSAI2016, in Japanese, 20160606
 - Exploiting the Hidden Layer Information Toward the Understanding and Utilization of Feature Representations Obtained from Deep Learning ([link](https://kaigi.org/jsai/webprogram/2015/pdf/2C3-OS-06b-1.pdf))
   - JSAI2015, in Japanese, 20150531
-- Physics papers during my PhD research ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
+- Physics papers during my Ph.D. student years ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
 
 #### Books & Articles, Blogs, Interviews
 - Books & Articles
@@ -113,7 +113,7 @@
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
   - Doctor of Philosophy (Ph.D.) of Elementary Particle Physics
-  - Ph.D thesis : Higgs interactions in physics beyond the standard model
+  - Ph.D. thesis : Higgs interactions in physics beyond the standard model
   - JSPS Research Fellowship for Young Scientists (DC2)
 - Tohoku University (200504 - 200903)
   - Bachelor's degree of Physics
