@@ -26,7 +26,10 @@
 - Python, R
 
 ## Experience
-**Cookpad Inc.** (201612 - present)
+
+**Self-employement** (201902 - Present)
+
+**Cookpad Inc.** (201612 - 201901)
 - Research and Development
   - Created new service using machine learning <br>
   Image recognition using deep learning: classification, object detection, attactiveness estimation, etc
@@ -121,4 +124,4 @@
 ## Ohters
 - [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
 - [Twitter](https://twitter.com/yohei_kikuta)
-- [Homepage](https://yoheikikuta.github.io/)
+- [Blog](https://yoheikikuta.github.io/)
