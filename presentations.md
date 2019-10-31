@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20191102 | ACL網羅的サーベイ報告会 ([link](https://nlpaper-challenge.connpass.com/event/152676/)) | To Be Appeared |
 | 20190223 | 第2回 nlpaper.challenge NLP/CV 交流勉強会 ([link](https://nlpaper-challenge.connpass.com/event/118557/)) | 画像認識 第4.3章~第5.5章 ([link](https://speakerdeck.com/diracdiego/20190223-nlpaperchallenge-cv-4-dot-3to5-dot-5)) |
 | 20180820-24 | Cookpad Summer Internship 2018 5DAY R&D ([link](https://internship.cookpad.com/2018/summer/)) | Lecture material ([link](https://github.com/yoheikikuta/2018-cookpad-intern-yohei-lecture)) |
 | 20180701 | 第46回 コンピュータビジョン勉強会＠関東（前編） ([link](https://kantocv.connpass.com/event/88613/)) | MobileNetV2: Inverted Residuals and Linear Bottlenecks ([ref](https://speakerdeck.com/diracdiego/20180701-cvpr2018-reading-yoheikikuta)) |
