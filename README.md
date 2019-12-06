@@ -6,9 +6,9 @@
 </p>
 
 ## Summary
-- Expert at machine learning, 4+ years experience in both research and practical application
-- Solved data analysis problems for business purpose: image recognition, recommendation, text analysis, and so forth
-- Published achademic papers about deep learning and recommendation
+- Expert at machine learning, 5+ years experience in both research and practical application
+- Solved machine learning/data analysis problems for business purposes: image recognition, recommendation, natural language processing, and so forth
+- Published academic papers about deep learning and recommendation
 - Made many external presentations about machine learning
 - Contributed article to NikkeiBP and JSAI, and wrote book for beginners of machine learning
 - Core competencies: Machine learning theory and implementation, image analysis, recommendation, Python, R
@@ -16,14 +16,15 @@
 ## Skills
 #### Machine Learning
  - Deep theoretical understanding of machine learning
- - Image recognition, recommender system, text analysis, marketing ROI optimization, time series analysis
- - TensorFlow, Keras, scikit-learn, gensim, and so many more
+ - Image recognition, recommender system, natural language processing, marketing ROI optimization, time series analysis
+ - TensorFlow, PyTorch, scikit-learn, gensim, and so many more
 #### DevOps
- - Basic knowledge of Linux (Ubuntu), Git (GitHub) and Docker (Docker Hub)
+ - Basic knowledge of Linux (Ubuntu) and MINIX
+ - Git (GitHub), Docker (Docker Hub) and CI (CircleCI and Jenkins)
  - AWS, GCP
 #### Language
 - Japanese (native), English (business)
-- Python, R
+- Python (expert), C (advanced), C++ (intermediate), Kotlin (beginner), Haskell (begineer)
 
 ## Experience
 
