@@ -29,6 +29,16 @@
 ## Experience
 
 **Self-employement** (201902 - Present)
+- Entrusted project from a laboratory
+  - Quality assurance of machine learning applications <br>
+  Surveyed and summarized recent progress on adversarial examples (+50 papers), code implementations using PyTorch.
+- Self-improvement
+  - Theoretical topics <br>
+  Read various machine learning papers, studied information/measure theory.
+  - Code constructions <br>
+  Reimplementation of machine learning papers, made simple Android apps, competitive programming, etc.
+  - Basics of computer science <br>
+  CPU (ARM and X86), OS such as processes/threads and memory management (Linux and MINIX), interpreter/compiler (implementation of a PostScript interpreter in C), etc. 
 
 **Cookpad Inc.** (201612 - 201901)
 - Research and Development
