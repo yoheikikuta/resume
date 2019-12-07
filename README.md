@@ -33,19 +33,19 @@
 **Cookpad Inc.** (201612 - 201901)
 - Research and Development
   - Created new service using machine learning <br>
-  Image recognition using deep learning: classification, object detection, attactiveness estimation, etc
+  Image recognition using deep learning: classification, object detection, attractiveness estimation, etc
   - Attended machine learning conference<br>
-  PAKDD, IJCAI, NIPS (as a top conference reportoer of JSAI in 2017), ...
+  PAKDD, IJCAI, NIPS (as a top conference reporter of JSAI in 2017), ...
 - Sponsoring conference and organizing event
-  - Led company's exhibition, chaired a session of IPSJ, is one of committee members of CEA
+  - Led company's exhibition, chaired a session of IPSJ, is one of the committee members of CEA
   - Organized various events, see [connpass page](https://connpass.com/user/YoheiKikuta/open/) 
 - Hiring and team building
-  - Conducted interview with candidate for machine learning position in domestic and global
-  - Contributed team building and communiation strategy
+  - Conducted interview with candidates for machine learning position in domestic and global
+  - Contributed team building and communication strategy
 
 **Deloitte** (201404 - 201611)
 - Research and Development
-  - Investigated business application by means of cutting edge technologies and wrote papers <br>
+  - Investigated business application through cutting edge technologies and wrote papers <br>
   Image recognition using deep learning, recommendation 
 - Data analysis service to a client (onsite project at a client's office)
   - Built machine learning module for a recommender system <br>
@@ -87,7 +87,7 @@
     - Contribution to chapters 1,6 and 8.
   - Web articles
     - 20180515, 機械学習を用いた画像分類における「未解決問題」を解くためにやったこと([link](https://logmi.jp/282815)), in Japanese
-    - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html),[link2](https://codezine.jp/article/detail/10893),[link3](https://geek-out.jp/column/entry/2018/06/26/110000),[link4](https://zine.qiita.com/event-report/geekoutnight-image-recognition/)), in Japanese
+    - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html), [link2](https://codezine.jp/article/detail/10893), [link3](https://geek-out.jp/column/entry/2018/06/26/110000), [link4](https://zine.qiita.com/event-report/geekoutnight-image-recognition/)), in Japanese
   - 人工知能学会誌寄稿
     - 201805, 会議報告「The Thirty-first Annual Conference on Neural Information Processing Systems（NIPS 2017）」 ([link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9220&item_no=1&page_id=13&block_id=23)), in Japanese
     - 201809, 「AI トレンド・トップカンファレンス NIPS 2017」報告会 ([link](https://www.ai-gakkai.or.jp/vol33_no5/)), in Japanese
@@ -112,17 +112,17 @@
 - [Full list](./presentations.md)
 - [Speaker Deck](https://speakerdeck.com/diracdiego)
 - Many presentations in private study groups
-  - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, Deep Learning with python, 深層学習, はじめてのパターン認識, 詳解ディープラーニング, 経済・ファイナンスデータの計量時系列分析, データ解析のための統計モデリング入門, etc
+  - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, Deep Learning with python, Information Theory Inference and Learning Algorithms, Categories types and structures, 深層学習, はじめてのパターン認識, 詳解ディープラーニング, 経済・ファイナンスデータの計量時系列分析, データ解析のための統計モデリング入門, etc
 
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
   - Doctor of Philosophy (Ph.D.) of Elementary Particle Physics
-  - Ph.D. thesis : Higgs interactions in physics beyond the standard model
+  - Ph.D. thesis: Higgs interactions in physics beyond the standard model
   - JSPS Research Fellowship for Young Scientists (DC2)
 - Tohoku University (200504 - 200903)
-  - Bachelor's degree of Physics
+  - Bachelor's degree in Physics
 
 ## Ohters
-- [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
 - [Twitter](https://twitter.com/yohei_kikuta)
+- [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
 - [Blog](https://yoheikikuta.github.io/)
