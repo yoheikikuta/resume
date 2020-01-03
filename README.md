@@ -133,6 +133,7 @@
   - Bachelor's degree in Physics
 
 ## Ohters
+- [Google Scholar](https://scholar.google.com/citations?user=OTjrJlsAAAAJ&hl=ja)
 - [Twitter](https://twitter.com/yohei_kikuta)
 - [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
 - [Blog](https://yoheikikuta.github.io/)
