@@ -71,7 +71,7 @@
 #### Papers
 - SRGAN for Super-Resolving Low-Resolution Food Images ([conference link](https://md.sist.chukyo-u.ac.jp/cea2018/program.html))
   -  IJCAI-ECAI2018 WS CEA2018, poster, 20180715
-- Improving SRGAN for Super-Resolving Low Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/tables?cryptoId=))
+- Improving SRGAN for Super-Resolving Low Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/advanced))
   - JSAI2018, in Japanese, 20180607
 - ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
@@ -82,11 +82,11 @@
   - PAKDD2017, long paper, 20170525
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://kaigi.org/jsai/webprogram/2017/paper-740.html))
   - JSAI2017, in Japanese, 20170523
-- Proposing automated region extraction techniques from image data ([link](https://kaigi.org/jsai/webprogram/2016/paper-976.html))
+- Proposing automated region extraction techniques from image data ([link](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-976.html))
   - JSAI2016, in Japanese, 20160606
-- Inappropriate image detection based on Deep Learning ([link](https://kaigi.org/jsai/webprogram/2016/paper-664.html))
+- Inappropriate image detection based on Deep Learning ([link](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-664.html))
   - JSAI2016, in Japanese, 20160606
-- Exploiting the Hidden Layer Information Toward the Understanding and Utilization of Feature Representations Obtained from Deep Learning ([link](https://kaigi.org/jsai/webprogram/2015/pdf/2C3-OS-06b-1.pdf))
+- Exploiting the Hidden Layer Information Toward the Understanding and Utilization of Feature Representations Obtained from Deep Learning ([link](https://www.ai-gakkai.or.jp/jsai2015/webprogram/2015/paper-52.html))
   - JSAI2015, in Japanese, 20150531
 - Physics papers during my Ph.D. student years ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
 
