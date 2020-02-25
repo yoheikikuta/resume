@@ -80,7 +80,7 @@
   - SIGIR2017, resource paper, 20170807
 - Web-Scale Personalized Real-Time Recommender System on Suumo ([conference link](http://pakdd2017.snu.ac.kr/?program_overview))
   - PAKDD2017, long paper, 20170525
-- Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://kaigi.org/jsai/webprogram/2017/paper-740.html))
+- Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://www.ai-gakkai.or.jp/jsai2017/webprogram/2017/paper-740.html))
   - JSAI2017, in Japanese, 20170523
 - Proposing automated region extraction techniques from image data ([link](https://www.ai-gakkai.or.jp/jsai2016/webprogram/2016/paper-976.html))
   - JSAI2016, in Japanese, 20160606
