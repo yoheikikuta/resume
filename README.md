@@ -92,6 +92,8 @@
 
 #### Books & Articles, Blogs, Interviews
 - Books & Articles
+  - A Primer on Adversarial Examples ([link](https://drive.google.com/file/d/159RzggX_4BwR9u7XMGrdqPuwaMiD80ic/view))
+    - 20200227, 技術書展8, in Japanese
   - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
     - 20170321, 秀和システム, in Japanse
     - Contribution to chapters 1,6 and 8.
