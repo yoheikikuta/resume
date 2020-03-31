@@ -28,7 +28,10 @@
 
 ## Experience
 
-**Self-employement** (201902 - Present)
+**Ubie, Inc** (202004 - Present)
+- Machine learning engineer & Data scientist
+
+**Self-employement** (201902 - 202003)
 - Entrusted project from a laboratory
   - Quality assurance of machine learning applications <br>
   Surveyed and summarized recent progress on adversarial examples (+50 papers), code implementations using PyTorch.
