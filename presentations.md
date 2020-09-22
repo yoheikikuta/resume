@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20201121 | 昔の論文読み会 ([link](https://connpass.com/event/187988/)) | TBA |
 | 20200906 | ACL2020オンライン読み会 ([link](https://exawizards.connpass.com/event/184582/)) | An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results ([link](https://speakerdeck.com/diracdiego/20200906-acl2020-metric-for-ordinal-classification-yoheikikuta)) |
 | 20191102 | ACL網羅的サーベイ報告会 ([link](https://nlpaper-challenge.connpass.com/event/152676/)) | ACL2019 Adversarial Examples in NLP ([link](https://speakerdeck.com/diracdiego/20191102-acl2019-adversarial-examples-in-nlp-yoheikikuta)) |
 | 20190223 | 第2回 nlpaper.challenge NLP/CV 交流勉強会 ([link](https://nlpaper-challenge.connpass.com/event/118557/)) | 画像認識 第4.3章~第5.5章 ([link](https://speakerdeck.com/diracdiego/20190223-nlpaperchallenge-cv-4-dot-3to5-dot-5)) |
