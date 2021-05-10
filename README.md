@@ -129,6 +129,10 @@
 - Many presentations in private study groups
   - Pattern Recognition and Machine Learning, Deep Learning, Python Machine Learning, Deep Learning with python, Information Theory Inference and Learning Algorithms, Categories types and structures, 深層学習, はじめてのパターン認識, 詳解ディープラーニング, 経済・ファイナンスデータの計量時系列分析, データ解析のための統計モデリング入門, etc
 
+#### Podcast
+- [hikifune.fm](https://anchor.fm/yoheikikuta) (in Japanese)
+
+
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
   - Doctor of Philosophy (Ph.D.) of Elementary Particle Physics
