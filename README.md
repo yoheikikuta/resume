@@ -110,6 +110,8 @@
     - 20150829, 日経BP, in Japanse
     - Contribution to the article of p.86-87.
 - Blogs
+  - 原理的には可能 (In Japanese)
+    - [link](https://yoheikikuta.github.io/)
   - COOKPAD Engineer's Blog (in Japanese)
     - 20181204, BERT with SentencePiece で日本語専用の pre-trained モデルを学習し、それを基にタスクを解く ([link](https://techlife.cookpad.com/entry/2018/12/04/093000))
     - 20180831, Cookpad Summer Internship 2018 5 DAY R&D を開催しました ([link](https://techlife.cookpad.com/entry/2018/08/31/093000))
@@ -145,4 +147,3 @@
 - [Google Scholar](https://scholar.google.com/citations?user=OTjrJlsAAAAJ&hl=ja)
 - [Twitter](https://twitter.com/yohei_kikuta)
 - [LinkedIn](https://www.linkedin.com/in/yohei-kikuta-983b29117/)
-- [Blog](https://yoheikikuta.github.io/)
