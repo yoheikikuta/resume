@@ -1,6 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
-| 20211023 | RecSys2021論文読み会（オンライン） ([link](https://connpass.com/event/226873/)) | TBD |
+| 20211023 | RecSys2021論文読み会（オンライン） ([link](https://connpass.com/event/226873/)) | Mitigating Confounding Bias in Recommendation via Information Bottleneck ([link](https://speakerdeck.com/diracdiego/20211023-recsys2021-paper-reading-yoheikikuta)) |
 | 20201121 | 昔の論文読み会 ([link](https://connpass.com/event/187988/)) | COMPUTING MACINERY AND INTELLIGENCE ([link](https://speakerdeck.com/diracdiego/20201121-oldpaperreading-computing-machinery-and-intelligence)) |
 | 20200906 | ACL2020オンライン読み会 ([link](https://exawizards.connpass.com/event/184582/)) | An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results ([link](https://speakerdeck.com/diracdiego/20200906-acl2020-metric-for-ordinal-classification-yoheikikuta)) |
 | 20191102 | ACL網羅的サーベイ報告会 ([link](https://nlpaper-challenge.connpass.com/event/152676/)) | ACL2019 Adversarial Examples in NLP ([link](https://speakerdeck.com/diracdiego/20191102-acl2019-adversarial-examples-in-nlp-yoheikikuta)) |
