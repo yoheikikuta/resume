@@ -6,30 +6,43 @@
 </p>
 
 ## Summary
-- Expert at machine learning, 5+ years experience in both research and practical application
+- Expert at machine learning, 8+ years experience in both research and practical application
 - Solved machine learning/data analysis problems for business purposes: image recognition, recommendation, natural language processing, and so forth
 - Published academic papers about deep learning and recommendation
 - Made many external presentations about machine learning
 - Contributed article to NikkeiBP and JSAI, and wrote book for beginners of machine learning
 - Core competencies: Machine learning theory and implementation, image analysis, recommendation, Python, R
+- Team management and organization development
 
 ## Skills
 #### Machine Learning
+ - Enthusiasm for creating valuable data
  - Deep theoretical understanding of machine learning
  - Image recognition, recommender system, natural language processing, marketing ROI optimization, time series analysis
  - TensorFlow, PyTorch, scikit-learn, gensim, and so many more
 #### DevOps
  - Basic knowledge of Linux (Ubuntu) and MINIX
- - Git (GitHub), Docker (Docker Hub) and CI (CircleCI and Jenkins)
+ - Git (GitHub), Docker (Docker Hub) and CI (GitHub Actions)
  - AWS, GCP
 #### Language
 - Japanese (native), English (business)
-- Python (expert), C (advanced), C++ (intermediate), Kotlin (beginner), Haskell (begineer)
+- Python (expert), SQL (expert), C (advanced), R (intermediate), Kotlin (beginner), Haskell (beginner), C++ (beginner)
 
 ## Experience
 
 **Ubie, Inc** (202004 - Present)
-- Machine learning engineer & Data scientist
+- Development and operation of machine learning algorithms
+  - Feature development <br>
+  Created and inmplemented algorithms for service improvements.
+  - Production opeartion <br>
+  Wrote production code and managed production environment.
+- Data Strategy
+  - Strategy planning and execution
+- Organization development
+  - Communication <br>
+  Enhanced communication in the workplace (both physical and virtual).
+  - Scrum <br>
+  Instilled scrum practices to team my team and the organization.
 
 **Self-employement** (201902 - 202003)
 - Entrusted project from a laboratory
