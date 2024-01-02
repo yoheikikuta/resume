@@ -6,11 +6,11 @@
 </p>
 
 ## Summary
-- Expert at machine learning, 8+ years experience in both research and practical application
+- Expert at machine learning, 9+ years experience in both research and practical application
 - Solved machine learning/data analysis problems for business purposes: image recognition, recommendation, natural language processing, and so forth
 - Published academic papers about deep learning and recommendation
 - Made many external presentations about machine learning
-- Contributed article to NikkeiBP and JSAI, and wrote book for beginners of machine learning
+- Contributed article to NikkeiBP and JSAI, and wrote a book for beginners in machine learning
 - Core competencies: Machine learning theory and implementation, image analysis, recommendation, Python, R
 - Team management and organization development
 
@@ -33,8 +33,8 @@
 **Ubie, Inc** (202004 - Present)
 - Development and operation of machine learning algorithms
   - Feature development <br>
-  Created and inmplemented algorithms for service improvements.
-  - Production opeartion <br>
+  Created and implemented algorithms for service improvements.
+  - Production operation <br>
   Wrote production code and managed production environment.
 - Data Strategy
   - Strategy planning and execution
@@ -44,13 +44,13 @@
   - Scrum <br>
   Instilled scrum practices to team my team and the organization.
 
-**Self-employement** (201902 - 202003)
+**Self-employment** (201902 - 202003)
 - Entrusted project from a laboratory
   - Quality assurance of machine learning applications <br>
-  Surveyed and summarized recent progress on adversarial examples (+50 papers), code implementations using PyTorch.
+  Surveyed and summarized recent progress on adversarial examples (+50 papers), and code implementations using PyTorch.
 - Self-improvement
   - Theoretical topics <br>
-  Read various machine learning papers, studied information/measure theory.
+  Read various machine learning papers, and studied information/measure theory.
   - Code constructions <br>
   Reimplementation of machine learning papers, made simple Android apps, competitive programming, etc.
   - Basics of computer science <br>
@@ -62,21 +62,21 @@
   Image recognition using deep learning: classification, object detection, attractiveness estimation, etc
   - Attended machine learning conference<br>
   PAKDD, IJCAI, NIPS (as a top conference reporter of JSAI in 2017), ...
-- Sponsoring conference and organizing event
+- Sponsoring conferences and organizing events
   - Led company's exhibition, chaired a session of IPSJ, is one of the committee members of CEA
   - Organized various events, see [connpass page](https://connpass.com/user/YoheiKikuta/open/) 
 - Hiring and team building
-  - Conducted interview with candidates for machine learning position in domestic and global
-  - Contributed team building and communication strategy
+  - Conducted interviews with candidates for machine learning positions in domestic and global
+  - Contributed to team building and communication strategy
 
 **Deloitte** (201404 - 201611)
 - Research and Development
-  - Investigated business application through cutting edge technologies and wrote papers <br>
+  - Investigated business applications through cutting-edge technologies and wrote papers <br>
   Image recognition using deep learning, recommendation 
 - Data analysis service to a client (onsite project at a client's office)
   - Built machine learning module for a recommender system <br>
   Learning to rank, Xgboost, Factorization Machines, Spark, Hive, AWS
-  - Analyzed various topics: ROI optimization, time series analysis for the budget planning, etc <br>
+  - Analyzed various topics: ROI optimization, time series analysis for budget planning, etc <br>
   ARIMA, price elasticity analysis, linear programming, genetic algorithm
 - Characteristic analysis of tourist spots and brand reputation analysis of a company
   - Analyzed for reporting to clients <br>
@@ -87,7 +87,7 @@
 #### Papers
 - SRGAN for Super-Resolving Low-Resolution Food Images ([conference link](https://md.sist.chukyo-u.ac.jp/cea2018/program.html))
   -  IJCAI-ECAI2018 WS CEA2018, poster, 20180715
-- Improving SRGAN for Super-Resolving Low Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/advanced))
+- Improving SRGAN for Super-Resolving Low-Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/advanced))
   - JSAI2018, in Japanese, 20180607
 - ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
@@ -152,7 +152,7 @@
 
 ## Education
 - Graduate University for Advanced Studies (200904 - 201403)
-  - Doctor of Philosophy (Ph.D.) of Elementary Particle Physics
+  - Doctor of Philosophy (Ph.D.) in Elementary Particle Physics
   - Ph.D. thesis: Higgs interactions in physics beyond the standard model
   - JSPS Research Fellowship for Young Scientists (DC2)
 - Tohoku University (200504 - 200903)
