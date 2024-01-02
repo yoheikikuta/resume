@@ -133,6 +133,8 @@
     - 20170914, 料理きろくにおける料理/非料理判別モデルの詳細 ([link](http://techlife.cookpad.com/entry/2017/09/14/161756)) 
     - 20170809, 2nd Hackarade: Machine Learning Challenge ([link](http://techlife.cookpad.com/entry/2017/08/09/135005))  
 - Interviews
+  - IT✕医療が交わるエンジニア組織のあり方とは？ ([link](https://ascii.jp/elem/000/004/172/4172732/))
+    - 20231220, ASCII STARTUP, in Japanese
   - 「機械学習で食生活を豊かにする」ことに挑む物理学博士が思い描く研究とサービスの良い関係 ([前編](https://press.forkwell.com/entry/2018/08/07/090000), [後編](https://press.forkwell.com/entry/2018/08/10/090000))
     - 20180807, 20180810, forkwell press, in Japanese
   - クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
