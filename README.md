@@ -31,18 +31,22 @@
 ## Experience
 
 **Ubie, Inc** (202004 - Present)
-- Development and operation of machine learning algorithms
-  - Feature development <br>
-  Created and implemented algorithms for service improvements.
-  - Production operation <br>
-  Wrote production code and managed production environment.
-- Data Strategy
-  - Strategy planning and execution
-- Organization development
-  - Communication <br>
-  Enhanced communication in the workplace (both physical and virtual).
-  - Scrum <br>
-  Instilled scrum practices to team my team and the organization.
+- position: VPoE (202304 - Present)
+  - Formulation of management strategy
+  - Maximization of development productivity
+- position: machine learning engineer (202004 - 202303)
+  - Development and operation of machine learning algorithms
+    - Feature development <br>
+    Created and implemented algorithms for service improvements.
+    - Production operation <br>
+    Wrote production code and managed production environment.
+  - Data Strategy
+    - Strategy planning and execution
+  - Organization development
+    - Communication <br>
+    Enhanced communication in the workplace (both physical and virtual).
+    - Scrum <br>
+    Instilled scrum practices to team my team and the organization.
 
 **Self-employment** (201902 - 202003)
 - Entrusted project from a laboratory
@@ -56,7 +60,7 @@
   - Basics of computer science <br>
   CPU (ARM and X86), OS such as processes/threads and memory management (Linux and MINIX), interpreter/compiler (implementation of a PostScript interpreter in C), etc. 
 
-**Cookpad Inc.** (201612 - 201901)
+**Cookpad Inc.** (201612 - 201901) position: machine learning engineer
 - Research and Development
   - Created new service using machine learning <br>
   Image recognition using deep learning: classification, object detection, attractiveness estimation, etc
@@ -69,7 +73,7 @@
   - Conducted interviews with candidates for machine learning positions in domestic and global
   - Contributed to team building and communication strategy
 
-**Deloitte** (201404 - 201611)
+**Deloitte** (201404 - 201611) position: data scientist/machine learning engineer
 - Research and Development
   - Investigated business applications through cutting-edge technologies and wrote papers <br>
   Image recognition using deep learning, recommendation 
