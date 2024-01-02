@@ -125,7 +125,10 @@
 - Blogs
   - 原理的には可能 (In Japanese)
     - [link](https://yoheikikuta.github.io/)
-  - COOKPAD Engineer's Blog (in Japanese)
+  - Ubie Blog (in Japanese)
+    - 20231231, Ubie Engineering ゆく年くる年 2023 ([link](https://zenn.dev/ubie_dev/articles/39df5a7218d752))
+    - 20231225, 「テクノロジーで」人々を適切な医療に案内する ([link](https://note.com/yoheikikuta/n/n2308a9db11f8))
+  - cookpad Developers Blog (in Japanese)
     - 20181204, BERT with SentencePiece で日本語専用の pre-trained モデルを学習し、それを基にタスクを解く ([link](https://techlife.cookpad.com/entry/2018/12/04/093000))
     - 20180831, Cookpad Summer Internship 2018 5 DAY R&D を開催しました ([link](https://techlife.cookpad.com/entry/2018/08/31/093000))
     - 20180705, Firebase ML Kitで自作のカスタムモデルを使って料理・非料理画像を判定できるようにした ([link](https://techlife.cookpad.com/entry/2018/07/05/090000)) 
