@@ -31,22 +31,22 @@
 ## Experience
 
 **Ubie, Inc** (202004 - Present)
-- position: VPoE (202304 - Present)
-  - Formulation of management strategy
-  - Maximization of development productivity
-- position: machine learning engineer (202004 - 202303)
-  - Development and operation of machine learning algorithms
-    - Feature development <br>
-    Created and implemented algorithms for service improvements.
-    - Production operation <br>
-    Wrote production code and managed production environment.
+- Position: Vice President of Engineering (VPoE) (April 2023 - Present)
+  - Development and execution of management strategies.
+  - Optimization of software development productivity.
+- Position: Machine Learning Engineer (April 2020 - March 2023)
+  - Developed and maintained machine learning algorithms.
+    - Focused on feature engineering. <br>
+    Created and implemented algorithms to enhance services.
+    - Managed production operations. <br>
+    Wrote and maintained production code; oversaw the production environment.
   - Data Strategy
-    - Strategy planning and execution
-  - Organization development
+    - Planned and executed data-driven strategies.
+  - Organizational Development
     - Communication <br>
-    Enhanced communication in the workplace (both physical and virtual).
+    Improved communication within the workplace, encompassing both physical and virtual environments.
     - Scrum <br>
-    Instilled scrum practices to team my team and the organization.
+    Successfully implemented scrum methodologies within my team and across the organization.
 
 **Self-employment** (201902 - 202003)
 - Entrusted project from a laboratory
