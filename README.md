@@ -30,8 +30,11 @@
 
 ## Experience
 
-**Ubie, Inc** (202004 - Present)
-- Position: Vice President of Engineering (VPoE) (April 2023 - Present)
+**Self-employment** (202409 - Present)
+- To Be Writtern
+
+**Ubie, Inc** (202004 - 202408)
+- Position: Vice President of Engineering (VPoE) (April 2023 - August 2024)
   - Development and execution of management strategies.
   - Optimization of software development productivity.
 - Position: Machine Learning Engineer (April 2020 - March 2023)
