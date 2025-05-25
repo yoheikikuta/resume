@@ -6,7 +6,7 @@
 </p>
 
 ## Summary
-- Expert at machine learning, 9+ years experience in both research and practical application
+- Expert at machine learning, 10+ years experience in both research and practical application
 - Solved machine learning/data analysis problems for business purposes: image recognition, recommendation, natural language processing, and so forth
 - Published academic papers about deep learning and recommendation
 - Made many external presentations about machine learning
@@ -31,7 +31,9 @@
 ## Experience
 
 **Self-employment** (202409 - Present)
-- To Be Writtern
+- Research and Development Project (October 2024 - March 2025)
+- AI-Driven Software Development Improvement Project (November 2024 - Present)
+- Technical Advisor (October 2024 - Present)
 
 **Ubie, Inc** (202004 - 202408)
 - Position: Vice President of Engineering (VPoE) (April 2023 - August 2024)
