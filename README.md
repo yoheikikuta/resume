@@ -5,98 +5,57 @@
   <br>
 </p>
 
-## Summary
-- Expert at machine learning, 10+ years experience in both research and practical application
-- Solved machine learning/data analysis problems for business purposes: image recognition, recommendation, natural language processing, and so forth
-- Published academic papers about deep learning and recommendation
-- Made many external presentations about machine learning
-- Contributed article to NikkeiBP and JSAI, and wrote a book for beginners in machine learning
-- Core competencies: Machine learning theory and implementation, image analysis, recommendation, Python, R
-- Team management and organization development
 
-## Skills
-#### Machine Learning
- - Enthusiasm for creating valuable data
- - Deep theoretical understanding of machine learning
- - Image recognition, recommender system, natural language processing, marketing ROI optimization, time series analysis
- - TensorFlow, PyTorch, scikit-learn, gensim, and so many more
-#### DevOps
- - Basic knowledge of Linux (Ubuntu) and MINIX
- - Git (GitHub), Docker (Docker Hub) and CI (GitHub Actions)
- - AWS, GCP
-#### Language
-- Japanese (native), English (business)
-- Python (expert), SQL (expert), C (advanced), R (intermediate), Kotlin (beginner), Haskell (beginner), C++ (beginner)
+## Summary
+- AI/ML expert with over 11 years of experience in both academic research and real-world applications
+- Proven track record of solving business-critical problems in image recognition, recommendation systems, NLP, and more
+- Published peer-reviewed papers in deep learning and recommender systems
+- Experienced in team leadership and organizational development
+- Delivered numerous public talks and authored a wide range of technical articles
+
 
 ## Experience
 
 **Self-employment** (202409 - Present)
 - Research and Development Project (October 2024 - March 2025)
-  - Participated in a national research project.
-  - Conducted in-depth evaluation of LLMs fine-tuned for specific usecases.
+  - Participated in a national research initiative focused on evaluating LLMs.
+  - Conducted comprehensive assessments of domain-specific and general-purpose Japanese LLMs.
 - AI-Driven Software Development Improvement Project (November 2024 - Present)
-  - Explored AI first development using emerging technologies (Cursor, Devin, MCP, etc).
-  - Regularly engaged in high-level strategic discussions with executive stakeholders.
+  - Investigated cutting-edge paradigms in declarative AI development, utilizing tools such as Cursor, Devin, and MCP servers.
+  - Regularly engaged in strategic discussions with executive leadership regarding the adoption of emerging AI technologies.
 - Technical Advisor (October 2024 - Present)
-  - Served as a technical sounding board for initiatives involving machine learning, generative AI, and organizational development.
-  - Provided strategic and hands-on support in validating AI-related ideas, leading to proof-of-concept implementations such as image retrieval.
+  - Acted as a strategic technical partner on topics spanning machine learning, generative AI, and organizational development.
+  - Provided strategic and hands-on support in validating AI-related ideas, leading to PoC implementations such as image retrieval.
 
 **Ubie, Inc** (202004 - 202408)
 - Position: Vice President of Engineering (VPoE) (April 2023 - August 2024)
-  - Development and execution of management strategies.
-  - Optimization of software development productivity.
+  - Led engineering strategy and organizational development initiatives.
+  - Drove productivity improvements in software development processes.
 - Position: Machine Learning Engineer (April 2020 - March 2023)
-  - Developed and maintained machine learning algorithms.
-    - Focused on feature engineering. <br>
-    Created and implemented algorithms to enhance services.
-    - Managed production operations. <br>
-    Wrote and maintained production code; oversaw the production environment.
-  - Data Strategy
-    - Planned and executed data-driven strategies.
-  - Organizational Development
-    - Communication <br>
-    Improved communication within the workplace, encompassing both physical and virtual environments.
-    - Scrum <br>
-    Successfully implemented scrum methodologies within my team and across the organization.
+  - Designed and deployed machine learning solutions.
+  - Maintained production ML systems and operational stability.
+  - Led data-driven initiatives to inform product and business strategy.
+  - Championed agile practices and improved internal communication, scaling Scrum methodologies across teams.
 
 **Self-employment** (201902 - 202003)
-- Entrusted project from a laboratory
-  - Quality assurance of machine learning applications <br>
-  Surveyed and summarized recent progress on adversarial examples (+50 papers), and code implementations using PyTorch.
-- Self-improvement
-  - Theoretical topics <br>
-  Read various machine learning papers, and studied information/measure theory.
-  - Code constructions <br>
-  Reimplementation of machine learning papers, made simple Android apps, competitive programming, etc.
-  - Basics of computer science <br>
-  CPU (ARM and X86), OS such as processes/threads and memory management (Linux and MINIX), interpreter/compiler (implementation of a PostScript interpreter in C), etc. 
+- Contract Research Project
+  - Conducted literature reviews and implementation analyses on adversarial examples (50+ papers), using PyTorch for experimentation.
+- Self-Directed Learning
+  - Studied machine learning theory (e.g., information theory), implemented research papers, developed Android apps, and explored competitive programming.
+  - Deepened understanding of computer science fundamentals: CPU architectures, operating systems, compiler/interpreter internals, etc.
 
 **Cookpad Inc.** (201612 - 201901) position: machine learning engineer
-- Research and Development
-  - Created new service using machine learning <br>
-  Image recognition using deep learning: classification, object detection, attractiveness estimation, etc
-  - Attended machine learning conference<br>
-  PAKDD, IJCAI, NIPS (as a top conference reporter of JSAI in 2017), ...
-- Sponsoring conferences and organizing events
-  - Led company's exhibition, chaired a session of IPSJ, is one of the committee members of CEA
-  - Organized various events, see [connpass page](https://connpass.com/user/YoheiKikuta/open/) 
-- Hiring and team building
-  - Conducted interviews with candidates for machine learning positions in domestic and global
-  - Contributed to team building and communication strategy
+- Developed ML-powered services for food image recognition: classification, object detection, and aesthetic scoring.
+- Participated in leading conferences such as PAKDD, IJCAI, and NIPS (selected as a top conference reporter by JSAI, 2017).
+- Spearheaded the company’s involvement in academic events and industry exhibitions.
+- Led hiring and technical interviews for global ML talent and drove communication strategy for team building.
 
 **Deloitte** (201404 - 201611) position: data scientist/machine learning engineer
-- Research and Development
-  - Investigated business applications through cutting-edge technologies and wrote papers <br>
-  Image recognition using deep learning, recommendation 
-- Data analysis service to a client (onsite project at a client's office)
-  - Built machine learning module for a recommender system <br>
-  Learning to rank, Xgboost, Factorization Machines, Spark, Hive, AWS
-  - Analyzed various topics: ROI optimization, time series analysis for budget planning, etc <br>
-  ARIMA, price elasticity analysis, linear programming, genetic algorithm
-- Characteristic analysis of tourist spots and brand reputation analysis of a company
-  - Analyzed for reporting to clients <br>
-  Text data processing, topic model (PLSA), bayesian network
-- Joint research about business applications using deep learning
+- Applied state-of-the-art ML techniques to business problems: deep learning, recommendation, time series forecasting, and optimization.
+- Delivered client-facing projects, including an on-site recommender system using XGBoost and Factorization Machines.
+- Performed advanced analytics on topics such as ROI optimization and brand reputation using PLSA and Bayesian networks.
+- Engaged in joint research projects exploring commercial applications of deep learning.
+
 
 ## Publications
 #### Papers
