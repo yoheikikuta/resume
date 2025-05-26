@@ -32,8 +32,14 @@
 
 **Self-employment** (202409 - Present)
 - Research and Development Project (October 2024 - March 2025)
+  - Participated in a national research project.
+  - Conducted in-depth evaluation of LLMs fine-tuned for specific usecases.
 - AI-Driven Software Development Improvement Project (November 2024 - Present)
+  - Explored AI first development using emerging technologies (Cursor, Devin, MCP, etc).
+  - Regularly engaged in high-level strategic discussions with executive stakeholders.
 - Technical Advisor (October 2024 - Present)
+  - Served as a technical sounding board for initiatives involving machine learning, generative AI, and organizational development.
+  - Provided strategic and hands-on support in validating AI-related ideas, leading to proof-of-concept implementations such as image retrieval.
 
 **Ubie, Inc** (202004 - 202408)
 - Position: Vice President of Engineering (VPoE) (April 2023 - August 2024)
