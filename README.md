@@ -26,6 +26,8 @@
 - Technical Advisor (October 2024 - Present)
   - Acted as a strategic technical partner on topics spanning machine learning, generative AI, and organizational development.
   - Provided strategic and hands-on support in validating AI-related ideas, leading to PoC implementations such as image retrieval.
+- Book Writing Project – Theoretical Foundations of Generative AI (forthcoming August 2025)
+  - Authored a book providing a deep, research-oriented understanding of generative AI by tracing its theoretical underpinnings back to the original foundational papers.
 
 **Ubie, Inc** (202004 - 202408)
 - Position: Vice President of Engineering (VPoE) (April 2023 - August 2024)
@@ -82,6 +84,8 @@
 
 #### Books & Articles, Blogs, Interviews
 - Books & Articles
+  - A book providing a deep, research-oriented understanding of generative AI
+    - To appear in August 2025
   - A Primer on Adversarial Examples ([link](https://drive.google.com/file/d/159RzggX_4BwR9u7XMGrdqPuwaMiD80ic/view))
     - 20200227, 技術書展8, in Japanese
   - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
