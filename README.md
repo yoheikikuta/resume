@@ -84,8 +84,8 @@
 
 #### Books & Articles, Blogs, Interviews
 - Books & Articles
-  - A book providing a deep, research-oriented understanding of generative AI
-    - To appear in August 2025
+  - 原論文から解き明かす生成AI ([link](https://gihyo.jp/book/2025/978-4-297-15078-5))
+    - 20250818, 技術評論社, in Japanese
   - A Primer on Adversarial Examples ([link](https://drive.google.com/file/d/159RzggX_4BwR9u7XMGrdqPuwaMiD80ic/view))
     - 20200227, 技術書展8, in Japanese
   - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
