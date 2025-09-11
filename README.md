@@ -16,17 +16,20 @@
 
 ## Experience
 
-**Self-employment** (202409 - Present)
+**Amazon Web Services Japan** (202510 - Present)
+- To Be Written
+
+**Self-employment** (202409 - 202509)
 - Research and Development Project (October 2024 - March 2025)
   - Participated in a national research initiative focused on evaluating LLMs.
   - Conducted comprehensive assessments of domain-specific and general-purpose Japanese LLMs.
-- AI-Driven Software Development Improvement Project (November 2024 - Present)
+- AI-Driven Software Development Improvement Project (November 2024 - July 2025)
   - Investigated cutting-edge paradigms in declarative AI development, utilizing tools such as Cursor, Devin, and MCP servers.
   - Regularly engaged in strategic discussions with executive leadership regarding the adoption of emerging AI technologies.
 - Technical Advisor (October 2024 - Present)
   - Acted as a strategic technical partner on topics spanning machine learning, generative AI, and organizational development.
   - Provided strategic and hands-on support in validating AI-related ideas, leading to PoC implementations such as image retrieval.
-- Book Writing Project – Theoretical Foundations of Generative AI (forthcoming August 2025)
+- Book Writing Project – Theoretical Foundations of Generative AI (published August 18, 2025)
   - Authored a book providing a deep, research-oriented understanding of generative AI by tracing its theoretical underpinnings back to the original foundational papers.
 
 **Ubie, Inc** (202004 - 202408)
@@ -66,11 +69,11 @@
 - Improving SRGAN for Super-Resolving Low-Resolution Food Images ([link](https://confit.atlas.jp/guide/event/jsai2018/subject/3A1-03/advanced))
   - JSAI2018, in Japanese, 20180607
 - ClassSim: Similarity between Classes Defined by Misclassification Ratios of Trained Classifiers ([link](https://arxiv.org/abs/1802.01267))
-- Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](http://www.mm.media.kyoto-u.ac.jp/CEA2017/))
+- Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://dl.acm.org/doi/10.1145/3106668.3106677))
   - IJCAI2017 WS39 CEA2017, poster, 20170820
-- Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research ([link](http://sigir.org/sigir2017/program/program-at-a-glance/))
+- Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research ([link](https://dl.acm.org/doi/10.1145/3077136.3080686))
   - SIGIR2017, resource paper, 20170807
-- Web-Scale Personalized Real-Time Recommender System on Suumo ([conference link](http://pakdd2017.snu.ac.kr/?program_overview))
+- Web-Scale Personalized Real-Time Recommender System on Suumo ([link](https://link.springer.com/chapter/10.1007/978-3-319-57529-2_41))
   - PAKDD2017, long paper, 20170525
 - Approaches to Food/Non-food image classification using Deep Learning on cookpad ([link](https://www.ai-gakkai.or.jp/jsai2017/webprogram/2017/paper-740.html))
   - JSAI2017, in Japanese, 20170523
@@ -83,7 +86,7 @@
 - Physics papers during my Ph.D. student years ([link](http://inspirehep.net/search?p=exactauthor%3AY.Kikuta.1+))
 
 #### Books & Articles, Blogs, Interviews
-- Books & Articles
+- Books
   - 原論文から解き明かす生成AI ([link](https://gihyo.jp/book/2025/978-4-297-15078-5))
     - 20250818, 技術評論社, in Japanese
   - A Primer on Adversarial Examples ([link](https://drive.google.com/file/d/159RzggX_4BwR9u7XMGrdqPuwaMiD80ic/view))
@@ -91,13 +94,13 @@
   - フリーライブラリで学ぶ機械学習入門 ([link](http://www.shuwasystem.co.jp/products/7980html/4961.html))
     - 20170321, 秀和システム, in Japanse
     - Contribution to chapters 1,6 and 8.
-  - Web articles
-    - 20180515, 機械学習を用いた画像分類における「未解決問題」を解くためにやったこと([link](https://logmi.jp/282815)), in Japanese
-    - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html), [link2](https://codezine.jp/article/detail/10893), [link3](https://geek-out.jp/column/entry/2018/06/26/110000), [link4](https://zine.qiita.com/event-report/geekoutnight-image-recognition/)), in Japanese
-  - 人工知能学会誌寄稿
-    - 201805, 会議報告「The Thirty-first Annual Conference on Neural Information Processing Systems（NIPS 2017）」 ([link](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9220&item_no=1&page_id=13&block_id=23)), in Japanese
-    - 201809, 「AI トレンド・トップカンファレンス NIPS 2017」報告会 ([link](https://www.ai-gakkai.or.jp/vol33_no5/)), in Japanese
-  - この1冊でまるごとわかる！　人工知能ビジネス ([link](https://eb.store.nikkei.com/asp/ShowSeriesDetail.do?seriesId=D2-00245200B))
+- Articles
+  - 20180515, 機械学習を用いた画像分類における「未解決問題」を解くためにやったこと([link](https://logmi.jp/main/technology/282815)), in Japanese
+  - 20180620, GeekOutナイト([link1](https://internet.watch.impress.co.jp/docs/event/1127590.html), [link2](https://codezine.jp/article/detail/10893), [link3](https://zine.qiita.com/event-report/geekoutnight-image-recognition/)), in Japanese
+   - 人工知能学会誌寄稿
+     - 201805, 会議報告「The Thirty-first Annual Conference on Neural Information Processing Systems（NIPS 2017）」 ([link](https://www.jstage.jst.go.jp/article/jjsai/33/3/33_377/_article/-char/ja/)), in Japanese
+     - 201809, 「AI トレンド・トップカンファレンス NIPS 2017」報告会 ([link](https://www.jstage.jst.go.jp/article/jjsai/33/5/33_628/_article/-char/ja/)), in Japanese
+  - この1冊でまるごとわかる！　人工知能ビジネス ([link](https://bookplus.nikkei.com/atcl/catalog/15/245200/))
     - 20150829, 日経BP, in Japanse
     - Contribution to the article of p.86-87.
 - Blogs
@@ -116,7 +119,7 @@
 - Interviews
   - IT✕医療が交わるエンジニア組織のあり方とは？ ([link](https://ascii.jp/elem/000/004/172/4172732/))
     - 20231220, ASCII STARTUP, in Japanese
-  - 「機械学習で食生活を豊かにする」ことに挑む物理学博士が思い描く研究とサービスの良い関係 ([前編](https://press.forkwell.com/entry/2018/08/07/090000), [後編](https://press.forkwell.com/entry/2018/08/10/090000))
+  - 「機械学習で食生活を豊かにする」ことに挑む物理学博士が思い描く研究とサービスの良い関係 ([前編](https://pr.forkwell.com/career_navi/cookpad-machine-learning-engineer/), [後編](https://pr.forkwell.com/career_navi/engineer-communication/))
     - 20180807, 20180810, forkwell press, in Japanese
   - クックパッドにおける料理きろくサービスと研究開発 ([link](https://www.nikkan.co.jp/articles/view/00454698))  
     - 20171223, 日刊工業新聞, in Japanese  
