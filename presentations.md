@@ -1,5 +1,6 @@
 | DATE | EVENT | TITLE & SLIDE |
 |:-----------:|:------------:|:------------:|
+| 20251210 | 生成AIを構造的に理解する原論文の歩み方　Lancers TechBook#3 ([link](https://lancersagent.connpass.com/event/376550/)) | 生成AIを構造的に理解する原論文の歩み方 |
 | 20250910 | 原論文から解き明かす生成AI - Forkwell Library #106 ([link](https://forkwell.connpass.com/event/365363/)) | 書籍「原論文から解き明かす生成AI」の魅力紹介 (イベントページからアーカイブ動画に進めます) |
 | 20240621 | 第6回日本メディカルAI学会学術集会 ([link](https://www.japan-medical-ai.org/%E8%A4%87%E8%A3%BD-%E5%BD%B9%E5%93%A1-%E4%BC%81%E6%A5%AD%E5%90%8D%E7%B0%BF)) | Ubie株式会社が提供する医療特化型AIの現在地と展望 〜生成AIを中心として〜 (N/A) |
 | 20240511 | TSKaigi ([link](https://tskaigi.org/)) | Ubie のプロダクト開発における技術的レバレッジポイント3選 (N/A) |
