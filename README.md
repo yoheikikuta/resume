@@ -17,7 +17,8 @@
 ## Experience
 
 **Amazon Web Services Japan** (202510 - Present)
-- To Be Written
+- Senior Specialist Solution Architects AI/ML (October 2025 - Present)
+  - To Be Written.
 
 **Self-employment** (202409 - 202509)
 - Research and Development Project (October 2024 - March 2025)
