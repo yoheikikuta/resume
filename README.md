@@ -107,6 +107,9 @@
 - Blogs
   - 原理的には可能 (In Japanese)
     - [link](https://yoheikikuta.github.io/)
+  - Zenn (in Japanese)
+    - 20251219, マルチモーダルなデータに対応した Bedrock Knowledge Bases の紹介 ([link](https://zenn.dev/aws_japan/articles/2025-12-19-multimodal-bedrock-knowledge-bases))
+    - 20251117, ReAct 論文と共に読み解く strands-agents/sdk-python の実装 ([link](https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents))
   - Ubie Blog (in Japanese)
     - 20231231, Ubie Engineering ゆく年くる年 2023 ([link](https://zenn.dev/ubie_dev/articles/39df5a7218d752))
     - 20231225, 「テクノロジーで」人々を適切な医療に案内する ([link](https://note.com/yoheikikuta/n/n2308a9db11f8))
