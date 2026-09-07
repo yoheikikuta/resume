@@ -7,7 +7,7 @@
 
 
 ## Summary
-- AI/ML expert with over 11 years of experience in both academic research and real-world applications
+- AI/ML expert with over 12 years of experience in both academic research and real-world applications
 - Proven track record of solving business-critical problems in image recognition, recommendation systems, NLP, and more
 - Published peer-reviewed papers in deep learning and recommender systems
 - Experienced in team leadership and organizational development
@@ -17,8 +17,12 @@
 ## Experience
 
 **Amazon Web Services Japan** (202510 - Present)
-- Senior Specialist Solution Architects AI/ML (October 2025 - Present)
-  - To Be Written.
+- Position: Sr. AI Specialist Solution Architects (July 2026 - Present)
+  - Provided deep technical guidance to enterprise customers on AI/ML architecture design and implementation, leveraging services such as Amazon Bedrock.
+  - Led technical validation engagements for generative AI workloads, enabling customers to accelerate production deployment of LLM-based solutions.
+  - Designed and reviewed reference architectures for ML pipelines, model training, and inference optimization tailored to customer-specific requirements.
+  - Delivered executive-level presentations and facilitated strategic discussions on AI adoption and transformation with both internal leadership and customer C-suite stakeholders.
+- Position: Senior Specialist Solution Architects AI/ML (October 2025 - June 2026)
 
 **Self-employment** (202409 - 202509)
 - Research and Development Project (October 2024 - March 2025)
@@ -108,10 +112,10 @@
   - 原理的には可能 (In Japanese)
     - [link](https://yoheikikuta.github.io/)
   - Zenn (in Japanese)
+    - 20260823, Amazon Bedrock における日本語ウェブ検索機能の検証 ([link](https://zenn.dev/aws_japan/articles/2026-08-19-websearch-in-aws))
+    - 20260601, Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能 ([link](https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval))
     - 20251219, マルチモーダルなデータに対応した Bedrock Knowledge Bases の紹介 ([link](https://zenn.dev/aws_japan/articles/2025-12-19-multimodal-bedrock-knowledge-bases))
     - 20251117, ReAct 論文と共に読み解く strands-agents/sdk-python の実装 ([link](https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents))
-    - 20260601, Amazon Bedrock 経由で使える LLM の日本語ベンチマーク性能 ([link](https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval))
-    - 20260823, Amazon Bedrock における日本語ウェブ検索機能の検証 ([link](https://zenn.dev/aws_japan/articles/2026-08-19-websearch-in-aws))
   - Ubie Blog (in Japanese)
     - 20231231, Ubie Engineering ゆく年くる年 2023 ([link](https://zenn.dev/ubie_dev/articles/39df5a7218d752))
     - 20231225, 「テクノロジーで」人々を適切な医療に案内する ([link](https://note.com/yoheikikuta/n/n2308a9db11f8))
@@ -147,6 +151,7 @@
   - JSPS Research Fellowship for Young Scientists (DC2)
 - Tohoku University (200504 - 200903)
   - Bachelor's degree in Physics
+
 
 ## Ohters
 - [Google Scholar](https://scholar.google.com/citations?user=OTjrJlsAAAAJ&hl=ja)
